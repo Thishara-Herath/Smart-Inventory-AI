@@ -4,6 +4,14 @@ AI-powered inventory management and demand forecasting system for grocery stores
 
 ---
 
+
+
+https://github.com/user-attachments/assets/ad27e31f-c663-4053-8391-8922c2307b74
+
+
+
+---
+
 ## 📌 Project Description
 
 Smart Inventory AI helps grocery stores manage inventory efficiently by predicting future demand, detecting unusual sales spikes, identifying seasonal trends, and providing intelligent reorder recommendations to prevent stock shortages and overstocking.
